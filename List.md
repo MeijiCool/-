@@ -28,7 +28,7 @@
 
 * [MySQL实战45讲:从原理到实战，丁奇带你搞懂 MySQL](https://time.geekbang.org/column/intro/139?tab=catalog)
 
-## 计算机网路
+## 计算机网络
 
 ## 算法题
 
